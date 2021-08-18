@@ -1,0 +1,6 @@
+server-->browser : HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+
+Request Payload: 
+{content: "spa test", date: "2021-08-18T12:51:06.063Z"}
+content: "spa test"
+date: "2021-08-18T12:51:06.063Z"

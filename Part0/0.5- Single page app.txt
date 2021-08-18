@@ -1,0 +1,6 @@
+browser->server: HTTP GET https://studies.cs.helsinki.fi/exampleapp/spa
+browser->server : HTTP GET https://studies.cs.helsinki.fi/exampleapp/main.css
+browser->server : HTTP GET https://studies.cs.helsinki.fi/exampleapp/main.js
+browser->server : HTTP GET https://studies.cs.helsinki.fi/exampleapp/data.json
+browser->server : HTTP GET https://studies.cs.helsinki.fi/exampleapp/favicon.ico
+
